@@ -1,4 +1,5 @@
 # a-github
+![My Github Journey](https://github.com/TohaTanvir/a-github/blob/main/images/a-github-banner.gif)
 All necessary notes information about github
 # Creating Beautiful GitHub Readme
 
